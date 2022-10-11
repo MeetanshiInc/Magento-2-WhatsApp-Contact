@@ -22,4 +22,4 @@ WhatsApp is a popular messaging app among all the age groups. Instead of formal 
 * The "Manage WhatsApp Chat Agents" grid lists the added chat agents and allows to add new chat agent.
 * Compatibility with WhatsApp web, app, and the business app.
 
-For more information, visit [https://meetanshi.com/magento-2-whatsapp-contact.html](https://meetanshi.com/magento-2-whatsapp-contact.html)
+For more information, visit ***[https://meetanshi.com/magento-2-whatsapp-contact.html](https://meetanshi.com/magento-2-whatsapp-contact.html)***
