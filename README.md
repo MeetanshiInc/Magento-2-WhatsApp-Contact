@@ -23,3 +23,6 @@ WhatsApp is a popular messaging app among all the age groups. Instead of formal 
 * Compatibility with WhatsApp web, app, and the business app.
 
 For more information, visit ***[https://meetanshi.com/magento-2-whatsapp-contact.html](https://meetanshi.com/magento-2-whatsapp-contact.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/whatsapp-contact/](https://meetanshi.com/docs/magento-2/whatsapp-contact/)***
